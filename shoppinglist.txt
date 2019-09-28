@@ -1,7 +1,6 @@
 Apples
 Oranges
 Bananas
-Makeup
 Almond milk
-Junk food
+Chips
 Bread
